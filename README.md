@@ -1,2 +1,2 @@
 # FiveM-Lua-Executor-SDK
-For CFX coders
+i fixed the new sdk for FiveM to CFX coders
